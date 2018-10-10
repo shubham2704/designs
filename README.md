@@ -1,1 +1,2 @@
-Landing page for website
+Responsive design of Landing page for website
+
